@@ -1,0 +1,7 @@
+username;password;role
+ivan;ivan;ADMIN
+user;user;USER
+admin;admin;ADMIN
+dawbio2;dawbio2;ADMIN
+alumne;alumne;USER
+prof;prof;ADMIN

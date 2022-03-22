@@ -1,0 +1,43 @@
+.video {
+    max-width: 100%;
+    height: auto;
+}
+#adnrandom{
+    display: block;
+    width: 800px;
+    height: 200px;
+}
+.error {
+    color:red;
+}
+#banner-img {
+    /* override other styles to make responsive */
+    width: 100%    !important;
+    height: auto   !important;
+}
+.topnav{
+    background-color: black;
+}
+.opt-menu {
+    color: white;
+    background-color: black!important
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+.title-topnav{
+    color: white;
+}
+h3, label {
+    color: black;
+}
+
+.login-submit {
+    background-color: black;
+    color: white;
+    font-size: 2em; 
+    border-radius: 0.3em;
+}
